@@ -1,4 +1,4 @@
-Git e sistem za kontrola na distribuirana verzija
-Gi sledi promenite na kompjuterskite datoteki
-Se koristi za koordiniranje na rabota pomegju programite
-Koi zaedno razvivaat izvoren kod za vreme na razvoj na softver
+git e sistem za kontrola na distribuirana verzija
+gi sledi promenite na kompjuterskite datoteki
+se koristi za koordiniranje na rabota pomegju programite
+koi zaedno razvivaat izvoren kod za vreme na razvoj na softver
