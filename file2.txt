@@ -1,9 +1,5 @@
-Golem broj na softverski proekti se potpiraat na Git
-Najgole izbor za povekje softverski timovi denes e Git
+
 
 Golem broj na programeri ja koristat ovaa alatka
 Ovozmozuva na programerite da gi sledat promenite na kodot
 
-Ovozmozuva da se pravi branches na kodot
-Taka sto sekoj moze da raboti na svojata granka
-Bez da go narusi kodot na glavnata granka
