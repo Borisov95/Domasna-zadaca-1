@@ -1,0 +1,5 @@
+Koga kodot e gotov se koristi git add
+Za da se dodata promenite vo indeksot
+
+Potoa se koristi git commit 
+Dodadeniot kod vo indeks se komitira
